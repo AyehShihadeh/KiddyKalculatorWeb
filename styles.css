@@ -92,3 +92,14 @@ button:hover{
     color: red;
     font-size: 35px;
 }
+
+@media all and (max-width:1440px){
+    .calculator{
+        height: 450px;
+        width: 300px;
+    }
+
+    .title{
+        font-size: 30px;
+    }
+}
